@@ -1,2 +1,3 @@
 # CSE360
-GUI Desktop application for a restaurant 
+GUI Desktop application for a restaurant <br />
+Jacob Jansen
