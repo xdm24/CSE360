@@ -2,3 +2,4 @@
 GUI Desktop application for a restaurant <br />
 Jacob Jansen
 Craig Wilson
+Dimitri Archipov
